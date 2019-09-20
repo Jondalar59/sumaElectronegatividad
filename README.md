@@ -1,0 +1,2 @@
+# sumaElectronegatividad
+Calculadora de electronegatividad
